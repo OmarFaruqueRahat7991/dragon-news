@@ -7,7 +7,7 @@ import Brand2 from '../../../Assets/Brands/Brand2.png'
 
 const BrandCarousel = () => {
   return (
-    <div>
+    <div style={{width: '300px'}}>
       <Carousel>
         <Carousel.Item>
           <img
